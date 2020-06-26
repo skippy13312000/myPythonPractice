@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 # Simple python: While loops
 # Author: Brian Skipper
 # Date: 6/26/2020

@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Simple python: messing len()
 # Author: Brian Skipper
 # Date: 6/26/2020

@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Simple python: if/else practice
 # Author: Brian Skipper
 # Date: 6/26/2020

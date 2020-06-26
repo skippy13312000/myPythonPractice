@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Simple python hello world program with some input statements and simple arithmatic
 # Author: Brian Skipper
 # Date: 6/26/2020

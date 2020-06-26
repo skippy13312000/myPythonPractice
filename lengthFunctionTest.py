@@ -6,3 +6,4 @@ x = "This is a test of len() function."
 
 print(len(x))
 
+#test

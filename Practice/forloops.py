@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# For Loops
+# For Loops and range command and modulus
 # Author: Brian Skipper
 # Date: 6/26/2020
 
@@ -11,5 +11,8 @@ num_name = input()
 for prt in range(int(num_name)+1):
     if prt > 0 and (prt % 2 == 0):
         print("We have printed "+ name +" "+str(prt) +" times.")
+
+for i in range(0, 10, 3):
+    print(i)
 
 #test change 

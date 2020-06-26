@@ -2,7 +2,8 @@
 # Author: Brian Skipper
 # Date: 6/26/2020
 
-name = "Alice"
+print("Input the name Alice: ")
+name = input()
 
 if name == "Alice":
     print("Hi Alice")

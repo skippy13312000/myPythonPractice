@@ -6,11 +6,14 @@
 import sys
 import random
 
-x = random.randint(1, 10)
-print(x)
+print("Enter the first number for the guessing game: ")
+num1 = int(input())
+print("Enter a number higher then the first number for the 2nd number in the guessing game: ")
+num2 = int(input())
+
+x = random.randint(num1, num2)
 
 while True:
-    print(x)
     print("Enter an INTEGER for your guess: ")
     y = int(input())
     if y == x:

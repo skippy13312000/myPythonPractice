@@ -1,5 +1,9 @@
+# Simple python: 'elif' login practice
+# Author: Brian Skipper
+# Date: 6/26/2020
+
 name = "Alice"
-age = 5
+age = 120
 if name  == "Alice":
     print("hi alice")
 elif age < 12:

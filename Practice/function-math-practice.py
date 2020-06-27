@@ -5,7 +5,7 @@
 
 def math_stuff(x):
     """
-    A simple Math fuction. With a simple docstring
+    A simple Math fuction.
     """
     number = x * x
     return number

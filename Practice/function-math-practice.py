@@ -12,7 +12,6 @@ def math_stuff(x):
     
 
 print("Enter a number: ")
-
 num1 = abs(int(input()))
 
 print("Number returned is "+str(math_stuff(num1)))

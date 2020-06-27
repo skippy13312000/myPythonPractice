@@ -4,6 +4,9 @@
 # Date: 6/26/2020
 
 def math_stuff(x):
+    """
+    A simple Math fuction. With a simple docstring
+    """
     number = x * x
     return number
     

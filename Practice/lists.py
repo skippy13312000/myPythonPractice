@@ -6,6 +6,7 @@ import random
 
 #create a list. Lists use [x,x,...,x]
 spam = ["cat", "dog", "fish", "gerbil", "elephant"]
+print("Dog index is "+str(spam.index("dog")))
 
 #print out items from the list
 print("First: "+str(spam[2:5])+" and "+spam[1]+"\n1\n2")
@@ -24,3 +25,6 @@ for index, item in enumerate(spam):
 #print out a random item from the list
 print("Random thing from list spam: "+random.choice(spam))
 
+#append moose on to the spam list
+spam.append("moose")
+print(spam)

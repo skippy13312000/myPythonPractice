@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# this is function practice to show the id() output and how it does and doesn't change
+# I did not wite this it's in the book I'm using. I just wanted to look it over in an easier to read format.
 # Author: Brian Skipper
 # Date: 6/26/2020
 

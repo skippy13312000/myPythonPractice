@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # I did not wite this it's in the book I'm using. I just wanted to look it over in an easier to read format.
-# Author: Brian Skipper
+# Author: Not ME
 # Date: 6/26/2020
 
 import random, time, copy

@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # dict and list practice
 # Author: Brian Skipper
-# Date: 6/26/2020
+# Date: 7/4/2020
 
 birthdays = {'Brian':'Nov 26','Holly':'Apr 27','Dina':'Mar 6'}
 

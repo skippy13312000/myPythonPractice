@@ -14,5 +14,3 @@ for prt in range(int(num_name)+1):
 # Some more of the options in the range() function
 for i in range(0, 10, 3):
     print(i)
-
-#test change 

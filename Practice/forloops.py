@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# For Loops and range command and modulus
+# For Loops and range command and modulus. Played around with the '%' modulus operator also.
 # Author: Brian Skipper
 # Date: 6/26/2020
 
@@ -14,5 +14,8 @@ for prt in range(int(num_name)+1):
 # Some more of the options in the range() function
 for i in range(0, 10, 3):
     print(i)
+<<<<<<< HEAD
 
 #test change more change
+=======
+>>>>>>> 39671df9ae238be5fc48d96180f604f1293fccf7

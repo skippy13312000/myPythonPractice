@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# For Loops and range command and modulus
+# For Loops and range command and modulus. Played around with the '%' modulus operator also.Bri
 # Author: Brian Skipper
 # Date: 6/26/2020
 

@@ -6,7 +6,7 @@ import random
 
 #create a list. Lists use [x,x,...,x]
 spam = ["cat", "dog", "fish", "gerbil", "elephant"]
-print("Dog index is "+str(spam.index("dog")))
+print("Cat index is "+str(spam.index("cat")))
 
 #print out items from the list
 print("First: "+str(spam[2:5])+" and "+spam[1]+"\n1\n2")

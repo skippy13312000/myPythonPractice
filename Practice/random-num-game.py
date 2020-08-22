@@ -3,7 +3,8 @@
 # Author: Brian Skipper
 # Date: 6/26/2020
 
-import sys, random
+import sys
+import random
 
 print("Enter the first number for the guessing game: ")
 num1 = int(input())

@@ -17,10 +17,4 @@ age = input()
 
 print("You're age with be " + str(int(age)+1) + " after you next birthday.")
 
-<<<<<<< HEAD
 #thisis a test
-=======
-print("this is test "+str(int(100))+" more stuff")
-
-#here is another update to send up through Git 
->>>>>>> 37b7bdb3cf42911a64ba7f342ff0c51ccf9ed8fd

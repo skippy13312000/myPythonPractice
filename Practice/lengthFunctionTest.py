@@ -6,5 +6,3 @@
 x = "This is a test of len() function."
 print(x)
 print(len(x), "Is the length of the string held in the X variable.")
-
-#let's take this out so we have a change to commit through GIT

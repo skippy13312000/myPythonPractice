@@ -4,7 +4,7 @@
 # Date: 6/26/2020
 
 def spam():
-    print("Function 1: "+str(eggs))
+    print("Spam function: "+str(eggs))
 eggs = 42
 
 spam()

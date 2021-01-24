@@ -10,4 +10,4 @@ while True:
     response = input()
     if response == "exit":
         sys.exit()
-    print("You types "+ response +".")
+    print("You typed "+ response +".")
